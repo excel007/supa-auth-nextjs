@@ -7,10 +7,10 @@ export default async function Page() {
     return (
         <div className="flex flex-col items-center justify-center h-screen">
             <h1 className="bg-blue-500 text-white p-4 text-3xl">
-                Hi Nawin
+                Hi Everyone
             </h1>
             <h1 className="bg-blue-500 text-white p-4 text-3xl">
-                Hi LJ
+                How are you doing?
             </h1>
         </div>
     );
